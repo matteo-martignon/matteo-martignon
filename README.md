@@ -8,6 +8,6 @@
 matteo-martignon/matteo-martignon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteo-martignon)
+![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteo-martignon&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteo-martignon)](https://github.com/matteo-martignon/github-readme-stats)
