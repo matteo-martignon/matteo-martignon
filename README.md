@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Matteo Martignon
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently doing a master in Data Science
 - 💞️ I’m looking to collaborate on Data Science projects
-<!--- - 📫 How to reach me ...
+- 📫 You can reach me at matteo.martignon.0@gmail.com
 
 <!---
 matteo-martignon/matteo-martignon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
