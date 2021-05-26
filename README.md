@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matteo Martignon
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science doing a master
+- 🌱 I’m currently doing a master in Data Science
 - 💞️ I’m looking to collaborate on Data Science projects
 <!--- - 📫 How to reach me ...
 
